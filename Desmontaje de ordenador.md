@@ -1,12 +1,12 @@
-‣ Equipo: Abril, Ainhoa, Miguel
+## ‣ Equipo: Abril, Ainhoa, Miguel
 
 [fotos](https://drive.google.com/drive/folders/1AA5hYqN4SfAwjqkQx5kPbGK2YuL8jL2i) tomadas por Abril.
 
-‣ ¿ De que año es ?
+### ‣ ¿ De que año es ?
 
 De los 90' aproximadamente, tiene piezas que ordenadores más recientes no tienen y el dissco duro tiene fecha del 98.
 
-‣  ¿Tiene piezas reutilizables ?
+### ‣  ¿Tiene piezas reutilizables ?
 No parece.
 
 ‣ ¿ Como es el ordenador que tengo que desmontar ?
