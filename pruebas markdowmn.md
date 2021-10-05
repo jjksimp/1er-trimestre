@@ -1,4 +1,4 @@
-### sIMPING ig
+### sIMPING LIST ig
 
 damn
 
@@ -10,3 +10,8 @@ damn
 ![imagen](https://user-images.githubusercontent.com/90753482/136006855-093cc2aa-83ec-4444-843b-d49c7f037e4c.png)
 
 
+![imagen](https://user-images.githubusercontent.com/90753482/136006960-a4f0bef5-d8a6-4afc-8fc4-5eb3b30f96f6.png)
+
+![imagen](https://user-images.githubusercontent.com/90753482/136007048-96571221-7a03-4b84-b44c-a9cc02ba53c7.png)
+
+![imagen](https://user-images.githubusercontent.com/90753482/136007338-82894b03-48af-4b16-93c6-364b73c4c3ea.png)
