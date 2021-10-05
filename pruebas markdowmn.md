@@ -4,12 +4,9 @@ damn
 
 ymir e historia se casaron y tuvierron 5 hijos y 2 perros xq lo digo yo.
 
-aot es trauma trauma hahah pal psicólogo de unaa
-
+aot es trauma trauma hahah pal psicólogo de una
 
 ### wAIT WAIT HAVE U SEEN CANDICE???
-thgyjhnhjyng "i can still hear her voice" the voice: gaegaehomosexualgae
-
 ![imagen](https://user-images.githubusercontent.com/90753482/136008019-151fca0b-a856-4c3b-945d-32897e8a735a.png)
  
  ### OMG JUSTIN BIBER
@@ -34,3 +31,4 @@ thgyjhnhjyng "i can still hear her voice" the voice: gaegaehomosexualgae
 
 ![imagen](https://user-images.githubusercontent.com/90753482/136007805-ccfb662c-1021-438e-b712-08e6114bbb65.png)
 
+ Pruebas pruebas pruebas de github
