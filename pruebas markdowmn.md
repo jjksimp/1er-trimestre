@@ -1,12 +1,12 @@
 ### sIMPING LIST ig
 
-damn
-## wAIT WAIT HAVE U SEEN CANDICE???
+damn 
+### wAIT WAIT HAVE U SEEN CANDICE???
 
 
 ![imagen](https://user-images.githubusercontent.com/90753482/136008019-151fca0b-a856-4c3b-945d-32897e8a735a.png)
  
- ## OMG JUSTIN BIBER
+ ### OMG JUSTIN BIBER
  
  ![imagen](https://user-images.githubusercontent.com/90753482/136008175-bfd812b0-8aa7-4752-9418-195f73479a18.png)
 
@@ -18,6 +18,7 @@ damn
 
 ![imagen](https://user-images.githubusercontent.com/90753482/136006855-093cc2aa-83ec-4444-843b-d49c7f037e4c.png)
 
+![imagen](https://user-images.githubusercontent.com/90753482/136008390-211c4cd6-6be3-4652-8acb-6b77d872a3bf.png)
 
 ![imagen](https://user-images.githubusercontent.com/90753482/136006960-a4f0bef5-d8a6-4afc-8fc4-5eb3b30f96f6.png)
 
