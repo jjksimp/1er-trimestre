@@ -3,7 +3,8 @@
 damn 
 ymir e historia se casaron y tuvierron 5 hijos y dos operros xa lo digo yo.
 
-aot es trauma trauma 
+aot es trauma trauma hahah pal psicólogo de unaa
+
 
 ### wAIT WAIT HAVE U SEEN CANDICE???
 
