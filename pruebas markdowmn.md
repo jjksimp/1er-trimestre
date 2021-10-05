@@ -4,7 +4,7 @@ damn
 
 ymir e historia se casaron y tuvierron 5 hijos y 2 perros xq lo digo yo.
 
-aot es trauma trauma hahah pal psicólogo de una
+aot es trauma trauma pal psicólogo de una
 
 ### wAIT WAIT HAVE U SEEN CANDICE???
 ![imagen](https://user-images.githubusercontent.com/90753482/136008019-151fca0b-a856-4c3b-945d-32897e8a735a.png)
