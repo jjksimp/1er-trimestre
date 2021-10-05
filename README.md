@@ -1,3 +1,3 @@
 # 1er-trimestre
 
-[fotos](https://github.com/jjksimp/1er-trimestre/blob/main/arquitectura%20de%20ordenadores.md)
+[arquitectura de mordenadores](https://github.com/jjksimp/1er-trimestre/blob/main/arquitectura%20de%20ordenadores.md)
