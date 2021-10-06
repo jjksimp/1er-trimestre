@@ -88,7 +88,6 @@ Tarjeta Gygabyte GeForce. 2GB de memoria. Conector DVI-D y puerto HDMI. PCI Expr
 [características](https://www.opirata.com/p/tarjeta-grafica-gigabyte-geforce-gt-1030-oc-2gb-ddr5)
 
 
-
 ## Internet y redes
 ### Redes locales: Lan
 Lan: Local Area Network
@@ -99,7 +98,30 @@ Ejercicio: coger el disco duro escogido antes y escribir:
 capacidad, precio, interfaz, tamaño del búfer, velocidad de giro, tipo: ¿magnético o de estado sólido ?
 [disco duro](https://www.amazon.es/UGREEN-Carcasa-Disco-9-5mm-Altura/dp/B07D2BHVBD/ref=asc_df_B07D2BHVBD/?tag=googshopes-21&linkCode=df0&hvadid=356462045935&hvpos=&hvnetw=g&hvrand=12019956016998348461&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005427&hvtargid=pla-562687927881&psc=1)
 
-‣ 6 TB, 17,99 €, 
+Velocidad(bits/s) = frecuencia(hz).ancho de banda(bits)
 
-### Reflexión sobre precios
+Los buses de datos tienen una determinada capacidad de transmisión de información. Esta capacidad se mide en información/s. Por ejemplo bit/S, KB/S, MB/S, GB/s
+Para pasar de una unidad a otra tendremos que multiplicar o dividir.
+Para pasar de bit a byte dividimos entre 8, que es el número de bits en un byte.
+Para pasar de byter a kilobyte dividimos entre 1024, que es el número de bytes en un KB.
 
+
+KB en MB dividimos entre 1024
+KB en un MB
+MB a GB 
+MB en un GB
+
+La velocidad de trasmisión es igual a la frecuencia de transmisión del bus multiplicado por el número de bits por paquete. El número de bits por paquete depende de cuantas conexiones tenga.
+
+Unidades de la frecuencia
+La frecuencia se mide en Hertz, hercios o segundos -1 (1/segundos)
+1 Hz representa que algo ocure una vez por segundo(...)
+
+En informática, estas frecuencias pueden referirse habitualmente en: frecuencias de reloj, para transmitir datos ( MH3 - GH3)
+frecuencias de sonido ( H3 -  KH3 )
+Para cambiar la unidad, se utiliza el SI, es decir multiplos y submúltiplos en base decimal. Es decir: 1MH3 = 1000000 H3 O 1KH3= 1000 H3
+
+25 MH3 (Pasar a H3 ) 512 bytes/ paquete  ¿ velocidad?
+
+Velocidad = Frecuencia. pAQUETE
+12800000000 / 
