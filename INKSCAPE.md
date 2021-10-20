@@ -31,7 +31,13 @@ Este canal se llama canal alfa. Los PNG pueden tenerlo , los gif y los jpg no.
 
 ## FORMATOS COMUNES
 - JPG 
+- ![imagen](https://user-images.githubusercontent.com/90753482/138061788-a3c414b2-ff24-4156-a39b-2b702d0fba1d.png)
+
 - GIF
+![imagen](https://user-images.githubusercontent.com/90753482/138061701-7ba9b075-81e3-4c84-b4b8-f5ae61e5a06e.png)
+
 - PNG
+- ![imagen](https://user-images.githubusercontent.com/90753482/138061956-74c76a3b-58b7-44cc-abc7-4089920a93a5.png)
+
 - TIFF
 - OTROS PARTICULARES .PSD
