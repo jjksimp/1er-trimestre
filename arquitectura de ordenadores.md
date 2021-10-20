@@ -78,6 +78,9 @@ Tipos: Mecánico y membrana
 
 La tarjeta gráfica o tarjeta de vídeo de un componente que viene integrado en la placa base del PC o se instala a parte para ampliar sus capacidades. Concretamente, esta tarjeta está dedicada al procesamiento de datos relacionados con el vídeo y las imágenes que se están reproduciendo en el ordenador.
 
+### ‣ CPU  :
+Central Processing Unit.  Conjunto de nano transistores. procesa la información
+
 ### ‣¿Qué es una GPU?
 
 GPU es el acrónimo de Graphics Processing Unit y representa precisamente el corazón de una tarjeta gráfica al igual que la CPU lo hace en un PC. Aparte del corazón, también es su cerebro, ya que es la encargada de realizar todos los cálculos complejos que nos permiten disfrutar de nuestros juegos en pantalla. En definitiva es la pieza de silicio que tanto AMD como NVIDIA o Intel fabrican y donde se graban los transistores, por decirlo de manera común, es el llamado chip de la tarjeta gráfica.
