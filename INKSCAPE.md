@@ -71,3 +71,12 @@ Esta es la imagen rasterizada original
 
 Descargamos la imagen
 
+### Archivo: propiedades del documento.
+
+- Tamaño personalizado ancho 600 alto 1000 (poner en px)
+- carramos ventana
+- Añadimos la imagen de internet
+- archivo- importar
+- arrastrar la imagen
+- copiar y pegar
+- clic derecho en la imagen - vectorizar mapa de bits
