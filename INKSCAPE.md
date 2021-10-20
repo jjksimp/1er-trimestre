@@ -55,4 +55,6 @@ Imagen ráster -- imagen vectorial
 
          rasterizar ←
          
-Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen ráster (mapa de bits)
+Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen ráster (mapa de bits).
+
+Vectorizar es pasar de una imagen ráste a vectorial.
