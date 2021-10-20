@@ -57,4 +57,16 @@ Imagen ráster -- imagen vectorial
          
 Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen ráster (mapa de bits).
 
-Vectorizar es pasar de una imagen ráste a vectorial.
+Vectorizar es pasar de una imagen ráste a una vectorial.
+
+### Ejercicio vectorización
+
+Vamos a tomar la imagen del cuadro del león de Rosa Bonheur.
+Esta es la imagen rasterizada original
+
+![imagen](https://user-images.githubusercontent.com/90753482/138074869-f9f05fe3-c90a-4ff4-aa08-a12177b1f679.png)
+
+[fuente:](https://elpais.com/cultura/2019/09/30/actualidad/1569858378_536299.html)
+
+Descargamos la imagen
+
