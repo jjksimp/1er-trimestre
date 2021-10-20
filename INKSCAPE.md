@@ -100,5 +100,6 @@ En tamaño vamos a ajustar página a contenido seleccionamos la imagen y pulsamo
 - guardamos como león.SGV
 - Subimos al github
 - 
-![imagen](https://drive.google.com/file/d/1-KAPCv9V3SS1rT6xOj97z7Ko45yLjU68/view?usp=sharing)
+![imagen](file:///home/auxiliarinformatica/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-20%2013-24-56.png![imagen](https://user-images.githubusercontent.com/90753482/138084417-6d0cc4ab-eb80-422a-b1f1-7a7ffd00f917.png)
+)
 
