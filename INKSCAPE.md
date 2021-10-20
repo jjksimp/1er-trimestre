@@ -46,3 +46,12 @@ Este canal se llama canal alfa. Los PNG pueden tenerlo , los gif y los jpg no.
 
 - TIFF
 - OTROS PARTICULARES .PSD
+
+### Imágenes vectoriales
+Se define la imagen como un conjunto de formas ( líneaas, puntos, etc) cada una de estas formas está definida matemáticamente.
+
+          (vectorizar)->
+Imagen ráster -- imagen vectorial
+         (rasterizar)<-
+         
+Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen ráster (mapa de bits)
