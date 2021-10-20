@@ -10,3 +10,5 @@
 [puebas markdown](https://github.com/jjksimp/1er-trimestre/blob/main/pruebas%20markdowmn.md)
 
 [mecanografía](https://github.com/jjksimp/1er-trimestre/blob/main/mecanografia.md)
+
+[inkscape](https://github.com/jjksimp/1er-trimestre/blob/main/INKSCAPE.md)
