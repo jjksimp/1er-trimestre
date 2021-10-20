@@ -95,11 +95,13 @@ Después de importar el león vamos a ajustar el lienzo.
 Para ello vamos a propiedades de documento
 En tamaño vamos a ajustar página a contenido seleccionamos la imagen y pulsamos el botón  ajustar página al contenido o selección
 
+![Captura de pantalla de 2021-10-20 13-24-56](https://user-images.githubusercontent.com/90753482/138084501-36d16937-f181-45ca-8a23-337f15de7df7.png)
+
 - Vectorizamos el león con las siguientes caractersticas: múltiples pasadas, colores, 8 pasadas
 - Borramos el ráster
 - guardamos como león.SGV
+
+
 - Subimos al github
-- 
-![imagen](file:///home/auxiliarinformatica/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-10-20%2013-24-56.png![imagen](https://user-images.githubusercontent.com/90753482/138084417-6d0cc4ab-eb80-422a-b1f1-7a7ffd00f917.png)
-)
+
 
