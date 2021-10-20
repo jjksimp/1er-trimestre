@@ -5,7 +5,7 @@ de puntos (mapa de bits) y a cada punto le asignamos un color (píxel)
 Propiedades de una imagen ráster : resolución. Un mapa de bits tiene un tamaño convret de AxB.
 La resolución se puede expresar de diferentes formas - Nº total de píxeles. normalmente MP (megapíxeles) esto es el número que resulta 
 de AxB en millones de píxeles - 3MP
-Líneas horizontales. En el video se utiliza la cantidad de líneas horizontales, normalmente se asume una proporción concreta entre A y B, por ejemplo 3/4 o 16/9(cine)
+Líneas horizontales. En el video se utiliza la cantidad de líneas horizontales, normalmente se asume una proporción concreta entre A y B, por ejemplo 3/4 o 16/9 (cine)
 
 Las líneas horizontales suelen ser:
 - 240 p
