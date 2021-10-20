@@ -1,5 +1,6 @@
 
-Imagenes: las imagenes se guardan dijitalmente de dos maneras. por un lado (ráster) podemos hacer: la matiz 
+## Imagenes: 
+Las imagenes se guardan dijitalmente de dos maneras. por un lado (ráster) podemos hacer: la matiz 
 de puntos (mapa de bits) y a cada punto le asignamos un color (píxel)
 
 Propiedades de una imagen ráster : resolución. Un mapa de bits tiene un tamaño convret de AxB.
