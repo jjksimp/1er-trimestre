@@ -51,6 +51,9 @@ con los que está trabajando.
 A ella se conectan, de una u otra forma todos los demás componentes del ordenador. Está formada por una placa de circuito
 impreso rectangular, de dimensiones un poco mayores a un papel de tamaño A4. En ella se encuentran por ejemplo, el chipset la Bios
 
+### ‣ Sistema Operativo: 
+Software que permite tener otras aplicaciones dentro y que interactúa con el hardware
+
 # Componentes:
 [Procesador:](https://www.pccomponentes.com/intel-core-i7-10700kf-380-ghz?gclsrc=aw.ds&gclid=Cj0KCQjwqKuKBhCxARIsACf4XuE3JHEseijgf67IeliTR20gCQWV7VReOxEXdpEev9SDnDaeXnIV-ZAaAjjREALw_wcB) Intel Core I7 10700KF 380 GHz ⇨319€
 
