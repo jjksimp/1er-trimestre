@@ -33,7 +33,7 @@ Este canal se llama canal alfa. Los PNG pueden tenerlo , los gif y los jpg no.
 
 ## JPG 
  
-- ![imagen](https://user-images.githubusercontent.com/90753482/138061788-a3c414b2-ff24-4156-a39b-2b702d0fba1d.png)
+ ![imagen](https://user-images.githubusercontent.com/90753482/138061788-a3c414b2-ff24-4156-a39b-2b702d0fba1d.png)
 
 ## GIF
 
@@ -41,7 +41,7 @@ Este canal se llama canal alfa. Los PNG pueden tenerlo , los gif y los jpg no.
 
 ##  PNG
 
-- ![imagen](https://user-images.githubusercontent.com/90753482/138061956-74c76a3b-58b7-44cc-abc7-4089920a93a5.png)
+ ![imagen](https://user-images.githubusercontent.com/90753482/138061956-74c76a3b-58b7-44cc-abc7-4089920a93a5.png)
 
 
 - TIFF
