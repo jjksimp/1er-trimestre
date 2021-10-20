@@ -83,7 +83,7 @@ Descargamos la imagen
 
 ### Explicación del cuadro de victorizar
 
-existen varias opciones; lo primero es decidir si el programa haráuna o más pasadas. Con una única pasada
+Existen varias opciones; lo primero es decidir si el programa haráuna o más pasadas. Con una única pasada
 siempre obtendremos una imagen en blanco y negro (que después podremos colorear)
 Una única pasada / cuantización de colores- agrupa dos o más en colores similares
 corte de luminosidad - junta todos los píxeles más oscuros que un gral(?)
@@ -93,13 +93,12 @@ Esto necesita más capacidad de proceso .
 León1.SGV
 Después de importar el león vamos a ajustar el lienzo.
 Para ello vamos a propiedades de documento
-En tamaño vamos a ajustarpágina a contenido seleccionamos la imagen y pulsamos el botón  ajustar página al contenido o selección
-
-(captura)
+En tamaño vamos a ajustar página a contenido seleccionamos la imagen y pulsamos el botón  ajustar página al contenido o selección
 
 - Vectorizamos el león con las siguientes caractersticas: múltiples pasadas, colores, 8 pasadas
 - Borramos el ráster
 - guardamos como león.SGV
 - Subimos al github
+- 
+![imagen](https://user-images.githubusercontent.com/90753482/138084170-923ae237-2997-4e26-b0b4-1c730a746c43.png)
 
-( captura )
