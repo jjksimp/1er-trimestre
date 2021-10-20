@@ -65,9 +65,7 @@ Software que permite tener otras aplicaciones dentro y que interactúa con el ha
 
 [Teclado:](https://es.rs-online.com/web/p/teclados-y-ratones-para-raspberry-pi/1857714/?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Raspberry_Pi_%26_Arduino_y_M%C3%B3dulos_de_Desarrollo_Whoop-_-(ES:Whoop!)+Teclados+y+Ratones+para+Raspberry+Pi-_-1857714&matchtype=&pla-318820722176&gclid=EAIaIQobChMI-ZHE2b6S8wIVjNrVCh0SWgiIEAYYBSABEgL3dPD_BwE&gclsrc=aw.ds) Teclado Raspberry Pi QWERTY ⇨15.58€
 
-[Mouse:](https://es.rs-online.com/web/p/teclados-y-ratones-para-raspberry-pi/1857707/?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Raspberry_Pi_%26_Arduino_y_M%C3%B3dulos_de_Desarrollo_Whoop-_-(ES:Whoop!)
-
-Ratón Raspberry Pi ⇨7.32€
+[Mouse:](https://es.rs-online.com/web/p/teclados-y-ratones-para-raspberry-pi/1857707/?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Raspberry_Pi_%26_Arduino_y_M%C3%B3dulos_de_Desarrollo_Whoop-_-(ES:Whoop!) Ratón Raspberry Pi ⇨7.32€
 
 
 ## Teclados
