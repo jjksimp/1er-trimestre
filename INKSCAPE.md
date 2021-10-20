@@ -84,7 +84,7 @@ Descargamos la imagen
 ![Captura de pantalla de 2021-10-20 12-55-05](https://user-images.githubusercontent.com/90753482/138084712-29797654-b0ff-47d6-b25f-3592570e413a.png)
 
 
-### Explicación del cuadro de victorizar
+### - Explicación del cuadro de victorizar
 
 Existen varias opciones; lo primero es decidir si el programa haráuna o más pasadas. Con una única pasada
 siempre obtendremos una imagen en blanco y negro (que después podremos colorear)
