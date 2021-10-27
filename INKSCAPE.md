@@ -181,5 +181,21 @@ lugar donde van las letras en blanco y negrita. Fue hecho relativamente rápido 
 
 - En este comecé con un triángulo rojo que luego dupliqué para tener el mismo tamaño y formar un rombo, luego dupliqué el rombo dos veces más para formar el logo completo y los alineé de forma que quedaran iguales pero "enfrentados". 
 
+[NÚMERO 4](https://github.com/jjksimp/1er-trimestre/blob/main/logo.svg)
 
------- 
+- Comecé por el círculo rojo, luego añadí las líneas blancas a los costados y en medio un triángulo el mísmo color rojo del círculo que se
+superponía a ambas líneas blancas, pero más pequeño que el círculo para que las líneas parecieran "cortadas" como en la imagen.
+
+[NÚMERO 5](https://github.com/jjksimp/1er-trimestre/blob/main/logo.svg)
+
+- El logo del Carrefour lo hice con dos triángulos , uno rojo pequeño y uno azul más grande, un rectángulo azul pequeño y una letra C blanca.
+Enfrenté ambos triángulos para formar una especie de rombo, luego cuando trataba de encajar la C me dí cuenta que necesitaba agregar alguna figura azul
+para que no se viera el rojo o el azul en los lados donde no deberían estar. Así que agregué el rectángulo entre medio de ambos triángulos y lo modifiqué hasta quel logo quedara similar al original. La letra C no es de la misma font porqueel inkscape no la tenía.
+
+### Capturas de pantalla del proceso de los últimos dos logos:
+
+![Captura de pantalla de 2021-10-27 12-59-27](https://user-images.githubusercontent.com/90753482/139057133-03cc0ba0-9bd2-4af6-8be0-50b398d7963e.png)
+![Captura de pantalla de 2021-10-27 13-02-41](https://user-images.githubusercontent.com/90753482/139057140-34f8bf8a-ebf7-4787-9758-0778148b6627.png)
+
+
+
