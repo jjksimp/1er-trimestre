@@ -139,7 +139,7 @@ Todas las imágenes fueron modificadas con la herramienta de filtros, todos dist
 ![LEON4](https://user-images.githubusercontent.com/90753482/139021360-a400c003-6e26-4413-85da-becfc617623c.png)
 
 - León 5:
-- 
+
 ![LEON5](https://user-images.githubusercontent.com/90753482/139021463-bb67c244-8762-4838-8dc6-34061116bfbe.png)
 
 
