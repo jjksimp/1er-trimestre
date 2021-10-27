@@ -174,7 +174,7 @@ y un canal de negro
 
 [NÚMERO 1](https://github.com/jjksimp/1er-trimestre/blob/main/underground.svg)
 
-- Este logo fue hecho utulizando un circulo rojo, lugo agregué uno blanco en el centro y con un rectángulo azul para el
+- Este logo fue hecho utilizando un circulo rojo, lugo agregué uno blanco en el centro y con un rectángulo azul para el
 lugar donde van las letras en blanco y negrita. Fue hecho relativamente rápido porque el logo era muy sencillo.
 
 [NÚMERO 2](https://github.com/jjksimp/1er-trimestre/blob/main/dibujo.svg)
