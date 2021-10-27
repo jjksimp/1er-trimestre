@@ -124,23 +124,23 @@ Todas las imágenes fueron modificadas con la herramienta de filtros, todos dist
 En este caso sólo se ve un fragmento del león porque el león no estaba ajustado el liezo. Para hacerlo correctamente
 hay que estar seguros de que el león se encuentre dentro del lienzo o pasará lo mismo otra vez.
 
-- León 1:
+- León 1: 16 x 21px
 
 ![LEON1](https://user-images.githubusercontent.com/90753482/139020702-4853b6cd-fd22-4417-aef8-14f3850e6604.png)
 
-- León 2:
+- León 2: 160 px
 
 ![LEON2](https://user-images.githubusercontent.com/90753482/139021110-33b4666d-8fdb-4697-8931-b745e3e4bad4.png)
 
-- León 3:
+- León 3: 350 px
 
 ![LEON3](https://user-images.githubusercontent.com/90753482/139021232-46167b61-4311-423f-bdf8-4a15df38416c.png)
 
-- León 4:
+- León 4: 800 px
 
 ![LEON4](https://user-images.githubusercontent.com/90753482/139021360-a400c003-6e26-4413-85da-becfc617623c.png)
 
-- León 5:
+- León 5: 1500 px
 
 ![LEON5](https://user-images.githubusercontent.com/90753482/139021463-bb67c244-8762-4838-8dc6-34061116bfbe.png)
 
