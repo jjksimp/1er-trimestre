@@ -148,3 +148,23 @@ hay que estar seguros de que el león se encuentre dentro del lienzo o pasará l
 
 ![Captura de pantalla de 2021-10-27 10-17-55](https://user-images.githubusercontent.com/90753482/139027577-e7df7f1f-048d-46b2-9b3b-dee7f89507b6.png)
 
+-------
+
+León 1: modificar:
+solo el relleno, relleno svg
+la línea, león relleno línea svg
+tipo de línea, relleno.linea.estilo de línea
+4º mix- león mix.svg
+
+- HSL ( hue, saturation, light)
+Este sistema mezcla lo siguiente: 
+un tono en la rueda cromática (hue)
+un canal de nivel de saturación cromática que va del gris al color (saturación)
+
+
+- CMYK
+Este sistema mezcla los tres colores primarios substractivos(cyan, magenta, amarillo)
+y un canal de negro
+
+- un canal de transparencia(alfa)
+- RGBa -- 1e3a666 => byto de colores en modo RGB (hexadecimal)
