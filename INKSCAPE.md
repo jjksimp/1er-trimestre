@@ -121,6 +121,8 @@ Todas las imágenes fueron modificadas con la herramienta de filtros, todos dist
 
 
 ### Rasterizar
+En este caso sólo se ve un fragmento del león porque el león no estaba ajustado el liezo. Para hacerlo correctamente
+hay que estar seguros de que el león se encuentre dentro del lienzo o pasará lo mismo otra vez.
 
 - León 1:
 
