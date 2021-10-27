@@ -1,5 +1,5 @@
 
-## Imagenes: 
+# Imagenes: 
 Las imagenes se guardan dijitalmente de dos maneras. por un lado (ráster) podemos hacer: la matiz 
 de puntos (mapa de bits) y a cada punto le asignamos un color (píxel)
 
