@@ -145,7 +145,7 @@ hay que estar seguros de que el león se encuentre dentro del lienzo o pasará l
 ![LEON5](https://user-images.githubusercontent.com/90753482/139021463-bb67c244-8762-4838-8dc6-34061116bfbe.png)
 
 ----------
-
+### LEÓN COLORIDO
 ![Captura de pantalla de 2021-10-27 10-17-55](https://user-images.githubusercontent.com/90753482/139027577-e7df7f1f-048d-46b2-9b3b-dee7f89507b6.png)
 
 -------
@@ -174,4 +174,12 @@ y un canal de negro
 
 [NÚMERO 1](https://github.com/jjksimp/1er-trimestre/blob/main/underground.svg)
 
+- Este logo fue hecho utulizando un circulo rojo, lugo agregué uno blanco en el centro y con un rectángulo azul para el
+lugar donde van las letras en blanco y negrita. Fue hecho relativamente rápido porque el logo era muy sencillo.
+
 [NÚMERO 2](https://github.com/jjksimp/1er-trimestre/blob/main/dibujo.svg)
+
+- En este comecé con un triángulo rojo que luego dupliqué para tener el mismo tamaño y formar un rombo, luego dupliqué el rombo dos veces más para formar el logo completo y los alineé de forma que quedaran iguales pero "enfrentados". 
+
+
+------ 
