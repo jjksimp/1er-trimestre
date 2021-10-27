@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg936"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="carrefour.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview938"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73228114"
+     inkscape:cx="396.70556"
+     inkscape:cy="521.65757"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs933" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;stroke-width:3.77953"
+       id="path984"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="222.28989"
+       sodipodi:cy="376.54764"
+       sodipodi:r1="134.94669"
+       sodipodi:r2="66.117943"
+       sodipodi:arg1="-3.1199786"
+       sodipodi:arg2="-2.072781"
+       inkscape:rounded="0"
+       inkscape:randomized="0.009"
+       d="m 88.08753,374.84564 101.26609,-56.56968 104.04456,-56.62032 -5.5521,116.21674 -0.84225,117.38742 -99.10562,-62.26672 z"
+       transform="matrix(0.224736,-0.00835783,0.00651973,0.28809565,-9.6126056,36.586304)"
+       inkscape:transform-center-x="7.4268389"
+       inkscape:transform-center-y="-0.017300576" />
+    <rect
+       style="fill:#000080;stroke-width:1.0474"
+       id="rect71015"
+       width="21.028316"
+       height="48.666862"
+       x="51.080284"
+       y="118.21185" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000080;stroke-width:3.77953"
+       id="path44232"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="428.29071"
+       sodipodi:cy="433.9653"
+       sodipodi:r1="148.49033"
+       sodipodi:r2="72.753723"
+       sodipodi:arg1="2.1023007"
+       sodipodi:arg2="3.1494982"
+       inkscape:rounded="0"
+       inkscape:randomized="0.009"
+       d="m 352.17024,560.70393 2.94546,-128.16786 0.41767,-126.6493 108.69564,65.10274 111.47972,64.88183 -110.43785,61.53978 z"
+       transform="matrix(0.3165771,-0.00229551,0.00269973,0.26917699,-18.182888,27.994431)"
+       inkscape:transform-center-x="-11.459236"
+       inkscape:transform-center-y="-0.0094612798" />
+    <rect
+       style="fill:#000080;stroke-width:1.18938"
+       id="rect65426"
+       width="37.166195"
+       height="67.425522"
+       x="58.030453"
+       y="109.51598" />
+    <rect
+       style="fill:#000080;stroke-width:1"
+       id="rect66687"
+       width="13.955527"
+       height="55.707634"
+       x="88.140182"
+       y="117.76622" />
+    <rect
+       style="fill:#000080;stroke-width:0.655971"
+       id="rect66689"
+       width="5.609097"
+       height="11.026369"
+       x="89.587547"
+       y="109.51598" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.254px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.68136"
+       x="36.864201"
+       y="174.78528"
+       id="text48826"
+       transform="scale(0.96849816,1.0325265)"><tspan
+         sodipodi:role="line"
+         id="tspan48824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#ffffff;stroke-width:2.68136"
+         x="36.864201"
+         y="174.78528">C</tspan></text>
+  </g>
+</svg>
