@@ -120,6 +120,10 @@ Todas las imágenes fueron modificadas con la herramienta de filtros, todos dist
 ![Captura de pantalla de 2021-10-20 13-59-32](https://user-images.githubusercontent.com/90753482/138088582-66f80fcc-87d4-42e8-b1d2-a0abddd52a88.png)
 
 
+### Rasterizar
+
+![LEON1](https://user-images.githubusercontent.com/90753482/139020702-4853b6cd-fd22-4417-aef8-14f3850e6604.png)
+
 
 
 
