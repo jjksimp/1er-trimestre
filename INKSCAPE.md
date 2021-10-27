@@ -122,8 +122,24 @@ Todas las imágenes fueron modificadas con la herramienta de filtros, todos dist
 
 ### Rasterizar
 
+- León 1:
+
 ![LEON1](https://user-images.githubusercontent.com/90753482/139020702-4853b6cd-fd22-4417-aef8-14f3850e6604.png)
 
+- León 2:
 
+![LEON2](https://user-images.githubusercontent.com/90753482/139021110-33b4666d-8fdb-4697-8931-b745e3e4bad4.png)
+
+- León 3:
+
+![LEON3](https://user-images.githubusercontent.com/90753482/139021232-46167b61-4311-423f-bdf8-4a15df38416c.png)
+
+- León 4:
+
+![LEON4](https://user-images.githubusercontent.com/90753482/139021360-a400c003-6e26-4413-85da-becfc617623c.png)
+
+- León 5:
+- 
+![LEON5](https://user-images.githubusercontent.com/90753482/139021463-bb67c244-8762-4838-8dc6-34061116bfbe.png)
 
 
