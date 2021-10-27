@@ -168,3 +168,9 @@ y un canal de negro
 
 - un canal de transparencia(alfa)
 - RGBa -- 1e3a666 => byto de colores en modo RGB (hexadecimal)
+
+
+### LOGOS:
+
+[1](https://github.com/jjksimp/1er-trimestre/blob/main/underground.svg)
+[2](https://github.com/jjksimp/1er-trimestre/blob/main/dibujo.svg)
