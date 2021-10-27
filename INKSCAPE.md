@@ -90,7 +90,7 @@ Descargamos la imagen
 
 ### - Explicación del cuadro de victorizar
 
-Existen varias opciones; lo primero es decidir si el programa haráuna o más pasadas. Con una única pasada
+Existen varias opciones; lo primero es decidir si el programa hará una o más pasadas. Con una única pasada
 siempre obtendremos una imagen en blanco y negro (que después podremos colorear)
 Una única pasada / cuantización de colores- agrupa dos o más en colores similares
 corte de luminosidad - junta todos los píxeles más oscuros que un gral(?)
