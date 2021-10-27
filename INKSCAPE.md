@@ -172,5 +172,6 @@ y un canal de negro
 
 ### LOGOS:
 
-[1](https://github.com/jjksimp/1er-trimestre/blob/main/underground.svg)
-[2](https://github.com/jjksimp/1er-trimestre/blob/main/dibujo.svg)
+[NÚMERO 1](https://github.com/jjksimp/1er-trimestre/blob/main/underground.svg)
+
+[NÚMERO 2](https://github.com/jjksimp/1er-trimestre/blob/main/dibujo.svg)
