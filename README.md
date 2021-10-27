@@ -3,6 +3,8 @@
 
 5/10/21  borré sin querer el primer trimestre, esta es la copia
 
+[github del profe](https://github.com/jjksimp?tab=following)
+
 [arquitectura de mordenadores](https://github.com/jjksimp/1er-trimestre/blob/main/arquitectura%20de%20ordenadores.md)
 
 [montaje de ordenadores](https://github.com/jjksimp/1er-trimestre/blob/main/Desmontaje%20de%20ordenador.md)
