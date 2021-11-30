@@ -151,9 +151,13 @@ hay que estar seguros de que el león se encuentre dentro del lienzo o pasará l
 -------
 
 León 1: modificar:
+
 solo el relleno, relleno svg
+
 la línea, león relleno línea svg
+
 tipo de línea, relleno.linea.estilo de línea
+
 4º mix- león mix.svg
 
 - HSL ( hue, saturation, light)
