@@ -5,15 +5,15 @@
 
 ### Soy Abril y me gusta pintar y escuchar música.
 
+![82c27d5ce993994287ca19bcd4767b1a](https://user-images.githubusercontent.com/90753482/144038860-77dc0b58-83b8-49be-babf-e937cce1ee0a.jpg)
 
-🌙  [Arquitectura de ordenadores](https://github.com/jjksimp/1er-trimestre/blob/main/arquitectura%20de%20ordenadores.md)
+🌙  [ARQUITECTURA DE ORDENADORES](https://github.com/jjksimp/1er-trimestre/blob/main/arquitectura%20de%20ordenadores.md)
 
-🌙  [Montaje de ordenadores](https://github.com/jjksimp/1er-trimestre/blob/main/Desmontaje%20de%20ordenador.md)
+🌙  [MONTAJE DE ORDENADORES](https://github.com/jjksimp/1er-trimestre/blob/main/Desmontaje%20de%20ordenador.md)
 
-🌙  [Puebas markdown](https://github.com/jjksimp/1er-trimestre/blob/main/pruebas%20markdowmn.md)
+🌙  [PRUEBAS MARKDOWN](https://github.com/jjksimp/1er-trimestre/blob/main/pruebas%20markdowmn.md)
 
-🌙  [Mecanografía](https://github.com/jjksimp/1er-trimestre/blob/main/mecanografia.md)
+🌙  [MECANOGRAFÍA](https://github.com/jjksimp/1er-trimestre/blob/main/mecanografia.md)
 
-🌙  [Inkscape](https://github.com/jjksimp/1er-trimestre/blob/main/INKSCAPE.md)
+🌙  [INKSCAPE](https://github.com/jjksimp/1er-trimestre/blob/main/INKSCAPE.md)
 
-![imagen](https://user-images.githubusercontent.com/90753482/144018359-3230d047-b63b-4926-8547-b22e3ff845e9.png)
