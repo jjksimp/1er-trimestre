@@ -3,7 +3,7 @@
 
 ## El 5/10/21 borré sin querer el primer trimestre, este es otro repositorio hecho desde 0.
 
-### Soy Abril y me gusta pintar y escuchar música.
+### Soy Abril. Me gusta pintar y escuchar música.
 
 ![82c27d5ce993994287ca19bcd4767b1a](https://user-images.githubusercontent.com/90753482/144038860-77dc0b58-83b8-49be-babf-e937cce1ee0a.jpg)
 
