@@ -1,8 +1,12 @@
-### nI yo sé qué es esto.
+![f7d507650cb6d7bb061845b4b531feae](https://user-images.githubusercontent.com/90753482/144039309-42b28ff1-3b92-4ae5-9613-843c75240dd8.jpg)
 
+### DPS:
+### D= XIAO 
+### P= PUEDE
+### S= SOLO SISISISI
 ymir e historia se casaron y tuvierron 5 hijos y 2 perros xq lo digo yo.
 
-Me saqué a Kequing en el banner de Hu tao xq la vida es cruel🤡🤡🤡🤡
+Me saqué a Kequing en el banner de Hu tao xq vida🤡🤡🤡🤡
 
  ### OMG JUSTIN BIBER soy tu fan
  ![imagen](https://user-images.githubusercontent.com/90753482/136008175-bfd812b0-8aa7-4752-9418-195f73479a18.png)
@@ -15,7 +19,7 @@ GE
 
 NES
 
-SISI
+SI SI
 ![imagen](https://user-images.githubusercontent.com/90753482/136006240-0bd51d66-3eb4-4386-b612-c8df3f8bd9e7.png)
 
 
