@@ -9,7 +9,7 @@
 
 🌙  [MONTAJE DE ORDENADORES](https://github.com/jjksimp/1er-trimestre/blob/main/Desmontaje%20de%20ordenador.md)
 
-🌙  [PRUEBAS MARKDOWN](https://github.com/jjksimp/1er-trimestre/blob/main/pruebas%20markdowmn.md)
+🌙  [PRUEBAS MARKDOWN](https://github.com/jjksimp/1er-trimestre/blob/main/PRUEBAS%20MARKDOWN.md)
 
 🌙  [MECANOGRAFÍA](https://github.com/jjksimp/1er-trimestre/blob/main/mecanografia.md)
 
