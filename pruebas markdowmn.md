@@ -1,19 +1,17 @@
-### sIMPING LIST ig
-
-damn 
+### nI yo sé qué es esto.
 
 ymir e historia se casaron y tuvierron 5 hijos y 2 perros xq lo digo yo.
+Me saqué a Kequing en el banner de Hu tao xq la vida es cruel🤡🤡🤡🤡
 
-aot es trauma trauma pal psicólogo de una
-
-### wAIT WAIT HAVE U SEEN CANDICE???
-![imagen](https://user-images.githubusercontent.com/90753482/136008019-151fca0b-a856-4c3b-945d-32897e8a735a.png)
- 
- ### OMG JUSTIN BIBER
- 
+ ### OMG JUSTIN BIBER soy tu fan
  ![imagen](https://user-images.githubusercontent.com/90753482/136008175-bfd812b0-8aa7-4752-9418-195f73479a18.png)
 
+Imagenes, Imagenes
+IMA
+GE 
+NES
 
+SISI
 ![imagen](https://user-images.githubusercontent.com/90753482/136006240-0bd51d66-3eb4-4386-b612-c8df3f8bd9e7.png)
 
 
