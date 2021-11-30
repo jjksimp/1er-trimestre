@@ -1,7 +1,8 @@
 
 # 1er-trimestre
-
 El 5/10/21 borré sin querer el primer trimestre, este es otro repositorio hecho desde 0.
+
+Soy Abril y me gusta pintar y escuchar música.
 
 [arquitectura de ordenadores](https://github.com/jjksimp/1er-trimestre/blob/main/arquitectura%20de%20ordenadores.md)
 
