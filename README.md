@@ -1,9 +1,7 @@
 
 # 1er-trimestre
 
-5/10/21  borré sin querer el primer trimestre, esta es la copia
-
-[github del profe](https://github.com/d-prieto)
+El 5/10/21 borré sin querer el primer trimestre, este es otro repositorio hecho desde 0.
 
 [arquitectura de mordenadores](https://github.com/jjksimp/1er-trimestre/blob/main/arquitectura%20de%20ordenadores.md)
 
